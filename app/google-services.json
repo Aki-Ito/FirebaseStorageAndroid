@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570770606868",
+    "project_id": "fir-storageandroid-93283",
+    "storage_bucket": "fir-storageandroid-93283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570770606868:android:99c7d8a4c7f984adf15001",
+        "android_client_info": {
+          "package_name": "app.ito.akki.firebasestorageandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570770606868-c11kkme1j6826f3r3e57ibae641f1hla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYWrQXwjpgqlE0LQPwnFTKjJwIxJg08fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570770606868-c11kkme1j6826f3r3e57ibae641f1hla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
