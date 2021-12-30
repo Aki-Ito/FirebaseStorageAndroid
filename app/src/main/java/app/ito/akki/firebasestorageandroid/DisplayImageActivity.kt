@@ -30,7 +30,6 @@ class DisplayImageActivity : AppCompatActivity() {
 
             val ONE_MEGABYTE: Long = 1024 * 1024
             downLoadPhoto.getBytes(ONE_MEGABYTE).addOnSuccessListener {
-                // Data for "images/island.jpg" is returned, use this as needed
                 val bitmap = BitmapFactory.decodeByteArray(it, 0,  it.size)
                 imageView.setImageBitmap(bitmap)
             }.addOnFailureListener {
